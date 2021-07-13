@@ -1,0 +1,44 @@
+<%- include("partials/header") -%>
+
+<h1>Edit Data</h1>
+<form class="" action="/editdata" method="post">
+    <div class="form-group">
+        <label class="form-label">City</label>
+        <input class="form-control" type="text" name="titleContent" value="<%=data.city%>" required>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Hospital</label>
+        <input class="form-control" name="postContent" value="<%=data.hospital%>"" required></input>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Normal Beds Availability</label>
+        <input class="form-control" name="seatsNo" type="number" value="<%=data.seats%>" required></input>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Oxygen Beds Availability</label>
+        <input class="form-control" name="oxygen" type="number" value="<%=data.oxy%>" required></input>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">ICU Beds Availability</label>
+        <input class="form-control" name="icubeds" type="number" value="<%=data.icu%>" required></input>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Price</label>
+        <input class="form-control" name="price" value="<%=data.price%>"></input>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Mobile Number</label>
+        <input class="form-control" name="mobile" value="<%=data.mobileno%>"></input>
+    </div>
+
+    <button class="btn btn-primary" type="submit" name="button">Edit</button>
+
+</form>
+
+<%- include("partials/footer") -%>

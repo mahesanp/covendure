@@ -1,0 +1,51 @@
+<%- include("partials/header") -%>
+
+<h3>Delete Data</h3>
+<div class="hometable">
+    <table class="table" id="delTable">
+        <thead>
+            <tr>
+                <th scope="col">City</th>
+                <th scope="col">Hospital</th>
+                <th scope="col">Normal Beds Availability</th>
+                <th scope="col">Oxygen Beds Availability</th>
+                <th scope="col">ICU Beds Availability</th>
+                <th scope="col">Price</th>
+                <th scope="col">Mobile Number</th>
+                <th scope="col">Delete Data</th>
+                <th scope="col">Edit Data</th>
+            </tr>
+
+
+        </thead>
+        <tbody>
+            <% allPosts.table.forEach(function(post){ %>
+            <tr>
+                    <td class="col-md-1"><%=post.city%></td>
+                    <td class="col-md-1"><%=post.hospital%></td>
+                    <td class="col-md-1"><%=post.seats%></td>
+                    <td class="col-md-1"><%=post.oxy%></td>
+                    <td class="col-md-1"><%=post.icu%></td>
+                    <td class="col-md-1"><%=post.price%></td>
+                    <td class="col-md-1"><%=post.mobileno%></td>
+                    <form class="" action="/delete" method="post">
+                        <td class="col-md-1">
+                            <input class="notshow" type="text" name="deleteVar" value="<%=post.hospital%>">
+                            <button class="btn btn-danger" type="submit" name="button">Delete</button>
+                        </td>
+                    </form>
+                    <form class="" action="/edit" method="post">
+                        <td>
+                            <input class="notshow" type="text" name="editVar" value="<%=post.hospital%>">
+                            <button class="btn btn-danger" type="submit" name="button">Edit</button>
+                        </td>
+                    </form>
+
+            </tr>
+                <% }); %>
+        </tbody>
+    </table>
+</div>
+
+
+<%- include("partials/footer") -%>

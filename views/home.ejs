@@ -1,0 +1,160 @@
+<%- include("partials/header") -%>
+
+<div class="alert alert-success cent" role="alert">
+    <p>*last updated 21st June 2021</p>
+</div>
+
+<div class="hometable">
+    <table class="table table-striped cent" id="myTable">
+        <thead>
+            <tr>
+                <th scope="col">City</th>
+                <th scope="col">Hospital</th>
+                <th scope="col">Normal Beds Availability</th>
+                <th scope="col">Oxygen Beds Availability</th>
+                <th scope="col">ICU Beds Availability</th>
+                <th scope="col">Price</th>
+                <th scope="col">Mobile Number</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            <% allPosts.table.forEach(function(post){ %>
+            <tr>
+                <td class="col-md-1"><%=post.city%></td>
+                <td class="col-md-1"><%=post.hospital%></td>
+                <td class="col-md-1"><%=post.seats%></td>
+                <td class="col-md-1"><%=post.oxy%></td>
+                <td class="col-md-1"><%=post.icu%></td>
+                <td class="col-md-1"><%=post.price%></td>
+                <td class="col-md-1"><a href="tel:+91<%=post.mobileno%>"><%=post.mobileno%></a></td>
+
+            </tr>
+            <% }); %>
+        </tbody>
+    </table>
+</div>
+
+
+<p style="font-weight: bold">*the prices listed above are intimated by the hospitals.</p>
+
+<h3 class="pink">About Covid Vaccine</h3>
+
+<ul>
+    <li>
+        <p class="pink">Covishield</p>
+        <ul>
+            <li>
+                <p>Side Effects</p>
+                <ul>
+                    <li>Head Ache</li>
+                    <li>Tiredness</li>
+                    <li>Muscle or Joint aches</li>
+                    <li>Fever</li>
+                    <li>Nausea</li>
+                </ul>
+            </li>
+            <li>
+                <p>Not Recommended for</p>
+                <ul>
+                    <li>People with severe allergy</li>
+                    <li>Below 18 years of age</li>
+                </ul>
+            </li>
+            <li>
+                <p>Price in Private Hospitals</p>
+                <ul>
+                    <li>₹700 - ₹900</li>
+                </ul>
+            </li>
+            <li>
+                <p>Protection Rate</p>
+                <ul>
+                    <li>70% - 90%</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<ul>
+    <li>
+        <p class="pink">Covaxin</p>
+        <ul>
+            <li>
+                <p>Side Effects</p>
+                <ul>
+                    <li>Dizziness</li>
+                    <li>Rashes</li>
+                    <li>Throat Swelling</li>
+                    <li>Nausea</li>
+                    <li>Fever</li>
+                </ul>
+            </li>
+            <li>
+                <p>Not Recommended for</p>
+                <ul>
+                    <li>People with severe allergy</li>
+                    <li>Below 18 years of age</li>
+                    <li>People with fever</li>
+                    <li>Pregnant, Brest Feeding</li>
+                    <li>Bleeding Disorder</li>
+                </ul>
+            </li>
+            <li>
+                <p>Price in Private Hospitals</p>
+                <ul>
+                    <li>₹1200 - ₹1800</li>
+                </ul>
+            </li>
+            <li>
+                <p>Protection Rate</p>
+                <ul>
+                    <li>78% - 100%</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+
+    <li>
+        <p class="pink">Sputnik</p>
+        <ul>
+            <li>
+                <p>Side Effects</p>
+                <ul>
+                    <li>Fatigue</li>
+                    <li>Joint Pain</li>
+                    <li>Muscle Ache</li>
+                    <li>Chills</li>
+                    <li>Fever</li>
+                    <li>Nausea and Vomiting</li>
+                </ul>
+            </li>
+            <li>
+                <p>Not Recommended for</p>
+                <ul>
+                    <li>People below 18 years of age</li>
+                </ul>
+            </li>
+            <li>
+                <p>Price in Private Hospitals</p>
+                <ul>
+                    <li>₹800 - ₹1200</li>
+                </ul>
+            </li>
+            <li>
+                <p>Protection Rate</p>
+                <ul>
+                    <li>95% - 97%</li>
+                </ul>
+            </li>
+
+        </ul>
+    </li>
+</ul>
+
+
+
+
+<%- include("partials/footer") -%>

@@ -1,0 +1,1048 @@
+{
+  "table": [
+    {
+      "city": "Salem",
+      "hospital": "Arignar Anna Arts College, Kattukottai",
+      "seats": "40",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "8940503959",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Annapoorna Medical College Hospitals",
+      "seats": "284",
+      "oxy": "13",
+      "icu": "0",
+      "mobileno": "8072437396",
+      "price": "₹5,000/day 15,000/day(ICU)"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Aishwaryam Specialty Hospital",
+      "seats": "21",
+      "oxy": "32",
+      "icu": "7",
+      "mobileno": "04272777555",
+      "price": "₹2L/advance ₹15,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "SISU Hospital India LTD",
+      "seats": "0",
+      "oxy": "7",
+      "icu": "1",
+      "mobileno": "9842745045",
+      "price": "₹15,000-₹20,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sri Gokulam Hospital",
+      "seats": "45",
+      "oxy": "15",
+      "icu": "4",
+      "mobileno": "9443260647",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Shri Suraksha Specialty Medical Center Pvt Ltd",
+      "seats": "8",
+      "oxy": "19",
+      "icu": "5",
+      "mobileno": "7373040635",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Malliakarai ICCC",
+      "seats": "30",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9442164687",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Konganapuram ICCC",
+      "seats": "26",
+      "oxy": "2",
+      "icu": "0",
+      "mobileno": "9578970483",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Koneripatti ICCC",
+      "seats": "30",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9788199591",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Karumandhurai Covid Care Center",
+      "seats": "100",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9788882220",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Dr. Thiru Neuro Multi Specialty Hospital, Agraharam",
+      "seats": "10",
+      "oxy": "5",
+      "icu": "0",
+      "mobileno": "04272555999",
+      "price": "₹8,00/day 27,000/day(ICU)"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Attur Girls Hr Sec School",
+      "seats": "92",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9442164687",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Shiva Surya Polyclinic",
+      "seats": "0",
+      "oxy": "11",
+      "icu": "0",
+      "mobileno": "9443219023",
+      "price": "₹50,000/advance ₹10,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sharaon Cancer Center and General Hospital",
+      "seats": "14",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9943075607",
+      "price": "₹50,000/advance"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Saravana Hospital Covid Care Center",
+      "seats": "40",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9894389401",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "SPMM Hospital, Ammapet",
+      "seats": "5",
+      "oxy": "35",
+      "icu": "3",
+      "mobileno": "8240953257",
+      "price": "₹1L/week"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Macdonald Choultry ICCC",
+      "seats": "28",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9443499255",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kadayampatti",
+      "seats": "28",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9942074390",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Hotel Karpagam Shri Covid Care Center",
+      "seats": "70",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "7708333308",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "AP Medical Center, Saradha College Road",
+      "seats": "7",
+      "oxy": "19",
+      "icu": "0",
+      "mobileno": "9994930184",
+      "price": "₹6.000-₹8,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Appu Venkatachalam Medical Research Center",
+      "seats": "0",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9894629468",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Balambiga Towers - Shre Vasantham Hospital",
+      "seats": "50",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "8610223246",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Dirajlal Gandhi College",
+      "seats": "173",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9443589973",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Elampillai",
+      "seats": "28",
+      "oxy": "2",
+      "icu": "0",
+      "mobileno": "9842061813",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Geeth Rangunath Hospital, Attur",
+      "seats": "0",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9842750556",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "IIHT Covid Care Center",
+      "seats": "74",
+      "oxy": "75",
+      "icu": "0",
+      "mobileno": "9488539389",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "K.M Nataraj Nursing Home",
+      "seats": "0",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9994660314",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Mecheri ICCC",
+      "seats": "28",
+      "oxy": "2",
+      "icu": "0",
+      "mobileno": "9786002071",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Nangavalli ICCC",
+      "seats": "25",
+      "oxy": "5",
+      "icu": "0",
+      "mobileno": "8778622218",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Panamarathapatti ICCC",
+      "seats": "27",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9894999163",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "R.P.S Hospital, Seelanaickenpatti",
+      "seats": "6",
+      "oxy": "10",
+      "icu": "0",
+      "mobileno": "N/A",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "RMSA School, Vaikalapattarai",
+      "seats": "70",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "7708131906",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Shri Hospitals, Hasthampatty",
+      "seats": "1",
+      "oxy": "10",
+      "icu": "4",
+      "mobileno": "7708333308",
+      "price": "₹50,000/advance ₹15,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Shanmuga Covid Care Center",
+      "seats": "30",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "04272706666",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sri Shellappa Hospital, Rajaram Nagar",
+      "seats": "22",
+      "oxy": "21",
+      "icu": "0",
+      "mobileno": "9894264333",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sundaram Multi-Specialty Hospital",
+      "seats": "15",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "8807661168",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Thiru Hospital",
+      "seats": "10",
+      "oxy": "5",
+      "icu": "0",
+      "mobileno": "04272266889",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Thalaivasal ICCC",
+      "seats": "23",
+      "oxy": "4",
+      "icu": "0",
+      "mobileno": "9942035344",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Thammampatti ICCC",
+      "seats": "19",
+      "oxy": "6",
+      "icu": "0",
+      "mobileno": "9443827018",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Tharamangalam ICCC",
+      "seats": "24",
+      "oxy": "4",
+      "icu": "0",
+      "mobileno": "9442701112",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Vadugapatti ICCC",
+      "seats": "0",
+      "oxy": "28",
+      "icu": "0",
+      "mobileno": "9952665411",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Valavanthi ICCC",
+      "seats": "30",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "N/A",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Vanavasi Polytechnic College",
+      "seats": "13",
+      "oxy": "35",
+      "icu": "0",
+      "mobileno": "9597225599",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Holy Cross School",
+      "seats": "150",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "N/A",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Jayarani College, Nethimedu",
+      "seats": "160",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "7598130884",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Old Suramangalam Middle School",
+      "seats": "70",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "8220535345",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Senchansavadi Scout Student Hostel, Valapadi",
+      "seats": "60",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9842973322",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sri Balakrishna Polytechnic College, Kadayampatti",
+      "seats": "50",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9994540962",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Bhavani Hospital Five Roads",
+      "seats": "14",
+      "oxy": "6",
+      "icu": "1",
+      "mobileno": "8489777111",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Deepam Specialty Hospital",
+      "seats": "21",
+      "oxy": "12",
+      "icu": "0",
+      "mobileno": "6384003000",
+      "price": "₹1L/advance"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Dharan Covid Care Center",
+      "seats": "35",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9047079990",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Dr Nalini Sridhar Hospital, Manal Medu",
+      "seats": "4",
+      "oxy": "3",
+      "icu": "6",
+      "mobileno": "7904955715",
+      "price": "₹5,000-₹8,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Govt Girls Hostel Yercaud Covid Care Center",
+      "seats": "50",
+      "oxy": "45",
+      "icu": "0",
+      "mobileno": "N/A",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kurinji Super Specialty Hospital",
+      "seats": "10",
+      "oxy": "65",
+      "icu": "24",
+      "mobileno": "9585037071",
+      "price": "₹50,000/advance ₹15,000/day ₹35,000/day(ICU)"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Karthic Medical Center, Idappadi",
+      "seats": "11",
+      "oxy": "12",
+      "icu": "0",
+      "mobileno": "9600380076",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Koneripatti ANC CCC",
+      "seats": "0",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9677042140",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Periyar University Covid Care Center",
+      "seats": "130",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9092670683",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "RK Hospital",
+      "seats": "0",
+      "oxy": "3",
+      "icu": "1",
+      "mobileno": "9442122747",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Saravana Hospital Pvt Ltd",
+      "seats": "3",
+      "oxy": "45",
+      "icu": "2",
+      "mobileno": "9952173589",
+      "price": "₹1L/advance ₹10,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sona College CCC",
+      "seats": "49",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9677999154",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Salem Polyclinic, Omalur",
+      "seats": "1",
+      "oxy": "15",
+      "icu": "1",
+      "mobileno": "9677706235",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sarakapillaaiyur ICCC",
+      "seats": "25",
+      "oxy": "3",
+      "icu": "0",
+      "mobileno": "9092670683",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Shanmuga Hospital & Cancer Institute",
+      "seats": "15",
+      "oxy": "10",
+      "icu": "15",
+      "mobileno": "04272706608",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sree Vasantham Hospital",
+      "seats": "10",
+      "oxy": "1",
+      "icu": "1",
+      "mobileno": "9894136398",
+      "price": "₹50,000/advance ₹10,000/day ₹15,000/day(ICU)"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Thongum Poonga CCC",
+      "seats": "27",
+      "oxy": "120",
+      "icu": "0",
+      "mobileno": "9750118789",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Universal Cancer Hospital Limited",
+      "seats": "13",
+      "oxy": "11",
+      "icu": "0",
+      "mobileno": "9894136398",
+      "price": "₹50,000/advance ₹10,000/day ₹15,000/day(ICU)"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sidha CCC",
+      "seats": "148",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "7200817000",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "ATTUR GH",
+      "seats": "16",
+      "oxy": "45",
+      "icu": "0",
+      "mobileno": "9154155371",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Agriculture Training Institute, Udhamasolapuram",
+      "seats": "16",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9842061813",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Ammani Hospital, Hasthampatty",
+      "seats": "0",
+      "oxy": "6",
+      "icu": "2",
+      "mobileno": "9342316866",
+      "price": "₹75,000/advance"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Ariyapalayam ANC Covid Care Center",
+      "seats": "27",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9788882220",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Arts College Edappadi",
+      "seats": "108",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9003522285",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Attur Boys Hr Sec School",
+      "seats": "64",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "638522487",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Deepam Multi Specialty Hospital",
+      "seats": "21",
+      "oxy": "26",
+      "icu": "4",
+      "mobileno": "9787701400",
+      "price": "₹1L/advance"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Dharan Hospital",
+      "seats": "67",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9787719990",
+      "price": "₹50,000/advance  ₹6,000-₹8,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Divine Hospital, Alagpuram",
+      "seats": "0",
+      "oxy": "3",
+      "icu": "3",
+      "mobileno": "N/A",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Dr. Thiru Neuro Multi Specialty Hospital, Udayapatti",
+      "seats": "8",
+      "oxy": "16",
+      "icu": "5",
+      "mobileno": "04272555999",
+      "price": "₹8,000/day 27,000/day(ICU)"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Dr Sundararajan Neuro Hospital Pvt Ltd",
+      "seats": "3",
+      "oxy": "3",
+      "icu": "0",
+      "mobileno": "9344503284",
+      "price": "₹50,000/advance  ₹7,500-₹8,500/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "EDAPPADI GH",
+      "seats": "17",
+      "oxy": "17",
+      "icu": "0",
+      "mobileno": "9384794113",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "GL Hospital, Swarnapuri",
+      "seats": "0",
+      "oxy": "19",
+      "icu": "4",
+      "mobileno": "9994050605",
+      "price": "₹60,000/advance"
+    },
+    {
+      "city": "Salem",
+      "hospital": "GMKMCH",
+      "seats": "60",
+      "oxy": "520",
+      "icu": "0",
+      "mobileno": "9154155369",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Gandhi Stadium Covid Care Center",
+      "seats": "132",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9715160765",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Karuppur Boys Hostel",
+      "seats": "210",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9894822927",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kavery Eng College, Mettur",
+      "seats": "73",
+      "oxy": "80",
+      "icu": "0",
+      "mobileno": "9952810873",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Knowledge Institute of Technology",
+      "seats": "36",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9154155308",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kamala Hospital, Agraharam",
+      "seats": "6",
+      "oxy": "20",
+      "icu": "2",
+      "mobileno": "8072794658",
+      "price": "₹35,000/advance ₹7,500/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kannankurichi ICCC",
+      "seats": "28",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9442030605",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Karipatti ICCC",
+      "seats": "30",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9789673959",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kauvery Hospital, Seelanaickenpatti",
+      "seats": "8",
+      "oxy": "9",
+      "icu": "0",
+      "mobileno": "04272677777",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kauvery Vedha Covid Care Center",
+      "seats": "41",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9003911296",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kavin Hospital, Omalur",
+      "seats": "2",
+      "oxy": "5",
+      "icu": "0",
+      "mobileno": "9786348245",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Kolathur ICCC",
+      "seats": "27",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9442921044",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Mam School CCC",
+      "seats": "33",
+      "oxy": "55",
+      "icu": "0",
+      "mobileno": "9445476397",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Maniyanur CCC",
+      "seats": "115",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9842638653",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Malar Hospital, Vazhappadi",
+      "seats": "12",
+      "oxy": "5",
+      "icu": "5",
+      "mobileno": "8270562733",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Manipal Hospital",
+      "seats": "0",
+      "oxy": "32",
+      "icu": "0",
+      "mobileno": "04272346600",
+      "price": "₹20,000/advance ₹15,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Mettur GH",
+      "seats": "3",
+      "oxy": "93",
+      "icu": "0",
+      "mobileno": "9894220546",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Nathan Super Specialty Hospital",
+      "seats": "17",
+      "oxy": "11",
+      "icu": "8",
+      "mobileno": "9894276633",
+      "price": "₹50,000/advance  ₹6,000-₹8,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Omalur GH",
+      "seats": "0",
+      "oxy": "35",
+      "icu": "0",
+      "mobileno": "8675048401",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Periya Krishnapuram ICCC",
+      "seats": "98",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9788882220",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Pethanaickenpalayam GH",
+      "seats": "31",
+      "oxy": "5",
+      "icu": "0",
+      "mobileno": "9344238396",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Priyam Specialty Hospital",
+      "seats": "17",
+      "oxy": "56",
+      "icu": "15",
+      "mobileno": "9944854597",
+      "price": "₹1L/advance ₹10,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sakthi Vikaas Hr Sec School, Belur",
+      "seats": "32",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "8838694469",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sharon Auditorium CCC",
+      "seats": "321",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "7598417489",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Shiva Surya Polyclinic CCC",
+      "seats": "5",
+      "oxy": "4",
+      "icu": "0",
+      "mobileno": "9443173270",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "SKS Hospitals",
+      "seats": "11",
+      "oxy": "44",
+      "icu": "0",
+      "mobileno": "9842744727",
+      "price": "₹1L/advance ₹16,000/day"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sree Bala Hospital",
+      "seats": "5",
+      "oxy": "5",
+      "icu": "0",
+      "mobileno": "9944066526",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sree Jayam Ortho and Multi Specialty Hospital",
+      "seats": "10",
+      "oxy": "38",
+      "icu": "12",
+      "mobileno": "9629281291",
+      "price": "N/A"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sendharapatty High School CCC",
+      "seats": "20",
+      "oxy": "15",
+      "icu": "0",
+      "mobileno": "9443827018",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Shanmuga College Pullipalayam",
+      "seats": "163",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9788906816",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Sri Ragavendra Neuro Care Pvt Ltd",
+      "seats": "0",
+      "oxy": "31",
+      "icu": "3",
+      "mobileno": "9489900815",
+      "price": "₹75,000/advance"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Vedha Vikaas School, Mallur",
+      "seats": "90",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9894999163",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Vinayaga Mission Kirubananda Medical College",
+      "seats": "73",
+      "oxy": "90",
+      "icu": "30",
+      "mobileno": "7904199406",
+      "price": "₹8,500/day ₹11,000/day(ICU)"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Vinayaka Mission Super Specialty Hospital",
+      "seats": "82",
+      "oxy": "14",
+      "icu": "6",
+      "mobileno": "9500182225",
+      "price": "₹75,000/advance ₹1L/5 days"
+    },
+    {
+      "city": "Salem",
+      "hospital": "Vysya Covid Care Center",
+      "seats": "58",
+      "oxy": "0",
+      "icu": "0",
+      "mobileno": "9789636757",
+      "price": "FREE"
+    },
+    {
+      "city": "Salem",
+      "hospital": "iTECH Multi Specialty Hospital, Agraharam",
+      "seats": "50",
+      "oxy": "17",
+      "icu": "0",
+      "mobileno": "9566313409",
+      "price": "₹20,000/advance"
+    }
+  ]
+}
